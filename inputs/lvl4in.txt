@@ -1,0 +1,53 @@
+Arcane Eye
+Aura of Life
+Aura of Purity
+Banishment
+Blight
+Charm Monster
+Compulsion
+Confusion
+Conjure Minor Elementals
+Conjure Woodland Beings
+Control Water
+Death Ward
+Dimension Door
+Divination
+Dominate Beast
+Elemental Bane
+Evard's Black Tentacles
+Fabricate
+Find Greater Steed
+Fire Shield
+Freedom of Movement
+Galder's Speedy Courier
+Gate Seal
+Giant Insect
+Grasping Vine
+Gravity Sinkhole
+Greater Invisibility
+Guardian of Faith
+Guardian of Nature
+Hallucinatory Terrain
+Ice Storm
+Leomund's Secret Chest
+Locate Creature
+Mordenkainen's Faithful Hound
+Mordenkainen's Private Sanctum
+Otiluke's Resilient Sphere
+Phantasmal Killer
+Polymorph
+Raulothim's Psychic Lance
+Shadow Of Moil
+Sickening Radiance
+Spirit Of Death
+Staggering Smite
+Stone Shape
+Stoneskin
+Storm Sphere
+Summon Aberration
+Summon Construct
+Summon Elemental
+Summon Greater Demon
+Vitriolic Sphere
+Wall of Fire
+Watery Sphere
