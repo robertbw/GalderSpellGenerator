@@ -1,194 +1,26 @@
-conjureD celestial
-conjureR celestial
-conjureS celestial
-create maVen
-create mageS
-crown Oof stars
-crown oAf stars
-crown oFf stars
-crown oOf stars
-crown ofF stars
-crown ofT stars
-Belayed blast fireball
-Relayed blast fireball
-deCayed blast fireball
-delayeR blast fireball
-delayed Oblast fireball
-delayed bEast fireball
-delayed bOast fireball
-delayed blasE fireball
-delayed blastS fireball
-delayed blast fireWall
-delayed blast fireballS
-diviDe word
-divinG word
-divineD word
-divineR word
-divineS word
-divine Sword
-divine Cord
-divine Ford
-divine Lord
-divine wArd
-divine woAd
-divine woLd
-divine woOd
-divine worLd
-divine worE
-divine worK
-divine worM
-divine worN
-divine worT
-divine wordS
-divine wordY
-draconic transformationS
-dream Oof the blue veil
-dream oAf the blue veil
-dream oFf the blue veil
-dream oOf the blue veil
-dream ofF the blue veil
-dream ofT the blue veil
-finger Oof death
-finger oAf death
-finger oFf death
-finger oOf death
-finger ofF death
-finger ofT death
-Afire storm
-Cire storm
-Dire storm
-Hire storm
-Lire storm
-Mire storm
-Sire storm
-Tire storm
-Wire storm
-fAre storm
-fOre storm
-fiFe storm
-fiLe storm
-fiNe storm
-fiVe storm
-firM storm
-firN storm
-firS storm
-fireD storm
-fireR storm
-fireS storm
-fire storE
-fire storK
-fire storY
-fire stormS
-fire stormY
-mUrage arcane
-mirageS arcane
-mirage arcaDe
-mirage arcanA
-plaCe shift
-plaGe shift
-plaTe shift
-planK shift
-planS shift
-planT shift
-planeD shift
-planeR shift
-planeS shift
-planeT shift
-plane sWift
-plane shRift
-plane shAft
-plane shiRt
-plane shiftS
-plane shiftY
-Bower word: pain
-Cower word: pain
-Dower word: pain
-Lower word: pain
-Mower word: pain
-Rower word: pain
-Sower word: pain
-Tower word: pain
-Vower word: pain
-pLower word: pain
-poKer word: pain
-poLer word: pain
-poRer word: pain
-poSer word: pain
-powDer word: pain
-powerS word: pain
-power Sword: pain
-power Cord: pain
-power Ford: pain
-power Lord: pain
-power wArd: pain
-power woAd: pain
-power woLd: pain
-power woOd: pain
-power worLd: pain
-power worE: pain
-power worK: pain
-power worM: pain
-power worN: pain
-power worT: pain
-power wordS: pain
-power wordY: pain
-power wordS pain
-power wordY pain
-power word: Cain
-power word: Fain
-power word: Gain
-power word: Kain
-power word: Lain
-power word: Main
-power word: Rain
-power word: Sain
-power word: Tain
-power word: Vain
-power word: Wain
-power word: pLain
-power word: paTin
-power word: paWn
-power word: paiD
-power word: paiL
-power word: paiR
-power word: painS
-power word: painT
-prismatic sTray
-prismatic spLay
-prismatic spraG
-prismatic spraT
-prismatic sprayS
-proTect image
-projectS image
-project imagO
-project imageD
-project imageS
-Degenerate
-regenerateD
-regenerateS
-resurrectionS
-reverIe gravity
-reversO gravity
-reverseD gravity
-reverseR gravity
-reverseS gravity
-Requester
-Requester
-sequesterS
-simulacrumS
-symbolS
-temple Oof the gods
-temple oAf the gods
-temple oFf the gods
-temple oOf the gods
-temple ofF the gods
-temple ofT the gods
-Aether essence
-Nether essence
-Wether essence
-tIther essence
-tOther essence
-tetTer essence
-tetherS essence
-tether essenceS
-whirlwindS
+conure celestial
+create mage
+delayed last fireball
+delayed bast fireball
+delayed blat fireball
+divine ord
+ire storm
+fie storm
+fir storm
+fire stor
+lane shift
+pane shift
+plan shift
+plane sift
+plane shit
+power ord: pain
+power word: ain
+power word: pin
+power word: pan
+prismatic pray
+prismatic spay
+prismatic spry
+project mage
+revere gravity
+revers gravity
+ether essence

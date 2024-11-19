@@ -1,812 +1,99 @@
-animatO dead
-animateD dead
-animateS dead
-animate Bead
-animate Head
-animate Lead
-animate Mead
-animate Read
-animate dRead
-animate dUad
-animate dYad
-animate deCd
-animate deEd
-animate deaF
-animate deaL
-animate deaN
-animate deaR
-antagonizeD
-antagonizeS
-aura Oof vitality
-aura oAf vitality
-aura oFf vitality
-aura oOf vitality
-aura ofF vitality
-aura ofT vitality
-beacon Oof hope
-beacon oAf hope
-beacon oFf hope
-beacon oOf hope
-beacon ofF hope
-beacon ofT hope
-bestowS curse
-bestow Burse
-bestow Burse
-bestow Nurse
-bestow Purse
-bestow cOurse
-bestow cArse
-bestow cOrse
-bestow curIe
-bestow curVe
-bestow curseD
-bestow curseS
-blEnding smite
-blinKing smite
-blinding sAmite
-blinding sOmite
-blinding sKite
-blinding sPite
-blinding sUite
-blinding smOte
-blinding smiLe
-blinding smitH
-blinding smiteR
-blinding smiteS
-Clink
-Slink
-bOink
-bRink
-blAnk
-blinD
-blinG
-blinI
-blinkS
-Ball lightning
-Ball lightning
-Fall lightning
-Gall lightning
-Hall lightning
-Mall lightning
-Pall lightning
-Rall lightning
-Tall lightning
-Wall lightning
-cEll lightning
-cOll lightning
-cUll lightning
-caRl lightning
-caUl lightning
-calF lightning
-calK lightning
-calK lightning
-calM lightning
-calX lightning
-callA lightning
-callS lightning
-call lightEning
-call lightningS
-catnIp
-catnapS
-conjureD animals
-conjureR animals
-conjureS animals
-conjureD barrage
-conjureR barrage
-conjureS barrage
-conjure barrageD
-conjure barrageS
-Ocreate food and water
-creMate food and water
-creNate food and water
-creaSe food and water
-creaSe food and water
-createD food and water
-createS food and water
-create Good and water
-create Hood and water
-create Mood and water
-create Pood and water
-create Rood and water
-create Wood and water
-create fLood and water
-create foLd and water
-create foNd and water
-create foNd and water
-create foRd and water
-create fooL and water
-create fooT and water
-create foodS and water
-create food Band water
-create food Hand water
-create food Land water
-create food Rand water
-create food Sand water
-create food Wand water
-create food End water
-create food Ind water
-create food aDd water
-create food aId water
-create food aUd water
-create food anA water
-create food anE water
-create food anN water
-create food anS water
-create food anT water
-create food anY water
-create food and Cater
-create food and Dater
-create food and Eater
-create food and Gater
-create food and Hater
-create food and Later
-create food and Mater
-create food and Rater
-create food and Tater
-create food and waIter
-create food and waSter
-create food and waDer
-create food and waFer
-create food and waGer
-create food and waVer
-create food and waterS
-create food and waterY
-crusader's Cantle
-crusader's manGle
-crusader's mantleD
-crusader's mantleS
-daylightS
-dispelS magic
-dispel maNic
-dispel magicS
-elemental weaponS
-enemies aRound
-enemies aboundS
-eruCting earth
-erupting Dearth
-erupting Hearth
-erupting Garth
-erupting earthS
-erupting earthY
-Bast friends
-Cast friends
-East friends
-East friends
-Hast friends
-Last friends
-Mast friends
-Oast friends
-Past friends
-Vast friends
-Wast friends
-fEast friends
-fEst friends
-fIst friends
-faCt friends
-faRt friends
-faRt friends
-fasH friends
-fastS friends
-Bear
-Dear
-Gear
-Hear
-Near
-Pear
-Rear
-Sear
-Tear
-Wear
-Year
-feUar
-feEr
-feaL
-feaT
-fearS
-Deign death
-Reign death
-feignS death
-feign Heath
-feign Neath
-feign dePth
-feign deaRth
-feign deathS
-fireWall
-fireballS
-Aflame arrows
-Blame arrows
-fRame arrows
-flUme arrows
-flaKe arrows
-flaRe arrows
-flamBe arrows
-flameD arrows
-flameN arrows
-flameR arrows
-flameS arrows
-flame Barrows
-flame Farrows
-flame Harrows
-flame Marrows
-flame Narrows
-flame arrowY
-flame stride Qua)
-flame stride (Qua)
-Ply
-Sly
-fAy
-fEy
-fRy
-fWy
-flAy
-flEy
-flD
-flT
-flU
-gIlder's tower
-gaDder's tower
-gaNder's tower
-Caseous form
-gaseous Corm
-gaseous Dorm
-gaseous Norm
-gaseous Worm
-gaseous fArm
-gaseous fIrm
-gaseous foAm
-gaseous forUm
-gaseous forA
-gaseous forB
-gaseous forD
-gaseous forE
-gaseous forK
-gaseous forT
-gaseous formE
-gaseous formS
-glyph Oof warding
-glyph oAf warding
-glyph oFf warding
-glyph oOf warding
-glyph ofF warding
-glyph ofT warding
-Chaste
-Baste
-Caste
-Paste
-Taste
-Waste
-hastY
-hasteD
-hasteN
-hasteS
-hypnoticS pattern
-hypnotic paStern
-hypnotic paStern
-hypnotic patterS
-hypnotic patternS
-inDite greed
-inVite greed
-inciSe greed
-inciSe greed
-inciteD greed
-inciteR greed
-inciteS greed
-incite Agreed
-incite Breed
-incite Creed
-incite Freed
-incite Freed
-incite Treed
-incite greeN
-incite greeT
-incite greedY
-intellectS fortress
-Fife transference
-Rife transference
-Wife transference
-liCe transference
-liKe transference
-liMe transference
-liNe transference
-liRe transference
-liTe transference
-liVe transference
-lifT transference
-lifeR transference
-lightEning arrow
-lightningS arrow
-lightning Barrow
-lightning Farrow
-lightning Harrow
-lightning Marrow
-lightning Narrow
-lightning Yarrow
-lightning arrowS
-lightning arrowY
-lightEning bolt
-lightningS bolt
-lightning Colt
-lightning Dolt
-lightning Holt
-lightning Jolt
-lightning Molt
-lightning Volt
-lightning bElt
-lightning boAt
-lightning boOt
-lightning boRt
-lightning boTt
-lightning boUt
-lightning bolA
-lightning bolD
-lightning bolE
-lightning bolL
-lightning bolO
-lightning boltS
-maNic circle
-magicS circle
-magic circleD
-magic circleR
-magic circleS
-magic circleT
-maNor image
-maYor image
-majorS image
-major imagO
-major imageD
-major imageS
-Amass healing word
-Bass healing word
-Lass healing word
-Lass healing word
-Pass healing word
-Sass healing word
-Tass healing word
-mEss healing word
-mIss healing word
-mOss healing word
-mUss healing word
-maCs healing word
-maDs healing word
-maGs healing word
-maMs healing word
-maNs healing word
-maPs healing word
-maRs healing word
-maRs healing word
-maTs healing word
-maWs healing word
-masKs healing word
-masTs healing word
-masC healing word
-masH healing word
-masK healing word
-masT healing word
-massY healing word
-mass Dealing word
-mass Pealing word
-mass Sealing word
-mass heEling word
-mass heaDing word
-mass heaPing word
-mass heaRing word
-mass heaTing word
-mass heaVing word
-mass healingS word
-mass healing Sword
-mass healing Cord
-mass healing Ford
-mass healing Lord
-mass healing wArd
-mass healing woAd
-mass healing woLd
-mass healing woOd
-mass healing worLd
-mass healing worE
-mass healing worK
-mass healing worM
-mass healing worN
-mass healing worT
-mass healing wordS
-mass healing wordY
-Geld into stone
-Held into stone
-Veld into stone
-Weld into stone
-Yeld into stone
-mIld into stone
-mOld into stone
-meAd into stone
-meEd into stone
-meNd into stone
-melT into stone
-meldS into stone
-meld Pinto stone
-meld Onto stone
-meld Unto stone
-meld inFo stone
-meld intRo stone
-meld intI stone
-meld intR stone
-meld into Atone
-meld into sCone
-meld into sHone
-meld into stAne
-meld into stoKe
-meld into stoLe
-meld into stoPe
-meld into stoRe
-meld into stoVe
-meld into stonY
-meld into stoneD
-meld into stoneR
-meld into stoneS
-Pelf's minute meteors
-Self's minute meteors
-mIlf's minute meteors
-melD's minute meteors
-phantomS steed
-phantom sPeed
-phantom steWed
-phantom steAd
-phantom steeL
-phantom steeP
-phantom steeR
-phantom steedS
-Slant growth
-plIant growth
-plaInt growth
-plaIt growth
-planEt growth
-planE growth
-planK growth
-planS growth
-planS growth
-plantS growth
-plant growthS
-proJection from energy
-protectionS from energy
-protection Prom energy
-protection froE energy
-protection froG energy
-protection froW energy
-protection from Anergy
-Dulse wave
-puRse wave
-pulseD wave
-pulseS wave
-pulse Cave
-pulse Eave
-pulse Fave
-pulse Gave
-pulse Have
-pulse Lave
-pulse Nave
-pulse Pave
-pulse Rave
-pulse Save
-pulse wEave
-pulse wIve
-pulse wOve
-pulse waIve
-pulse waDe
-pulse waGe
-pulse waKe
-pulse waLe
-pulse waMe
-pulse waNe
-pulse waRe
-pulse wavY
-pulse waveD
-pulse waveR
-pulse waveS
-reWove curse
-remoTe curse
-removeD curse
-removeR curse
-removeS curse
-remove Burse
-remove Burse
-remove Nurse
-remove Purse
-remove cOurse
-remove cArse
-remove cOrse
-remove curIe
-remove curVe
-remove curseD
-remove curseS
-Bending
-Fending
-Lending
-Mending
-Pending
-Rending
-Rending
-Tending
-Vending
-Wending
-sCending
-sPending
-sAnding
-seEding
-senSing
-Fleet storm
-Gleet storm
-sHeet storm
-sKeet storm
-sKeet storm
-sWeet storm
-slePt storm
-sleeK storm
-sleeP storm
-sleetS storm
-sleetY storm
-sleet storE
-sleet storK
-sleet storY
-sleet stormS
-sleet stormY
-Alow
-Blow
-Flow
-Glow
-Plow
-sCow
-sHow
-sNow
-sTow
-slAw
-slEw
-sloB
-sloE
-sloG
-sloP
-sloT
-slowS
-Apeak with dead
-sNeak with dead
-sTeak with dead
-speCk with dead
-speaR with dead
-speakS with dead
-speak Kith dead
-speak Lith dead
-speak Pith dead
-speak wiDth dead
-speak wiSh dead
-speak wiSh dead
-speak witCh dead
-speak witE dead
-speak witS dead
-speak withE dead
-speak withY dead
-speak with Bead
-speak with Head
-speak with Lead
-speak with Mead
-speak with Read
-speak with dRead
-speak with dUad
-speak with dYad
-speak with deCd
-speak with deEd
-speak with deaF
-speak with deaL
-speak with deaN
-speak with deaR
-Apeak with plants
-sNeak with plants
-sTeak with plants
-speCk with plants
-speaR with plants
-speakS with plants
-speak Kith plants
-speak Lith plants
-speak Pith plants
-speak wiDth plants
-speak wiSh plants
-speak wiSh plants
-speak witCh plants
-speak witE plants
-speak witS plants
-speak withE plants
-speak withY plants
-speak with Slants
-speak with plaInts
-speak with plaIts
-speak with planEts
-speak with planEs
-speak with planKs
-spiritS guardians
-spiritS shroud
-spirit sTroud
-spirit shroudS
-sLinking cloud
-stOnking cloud
-stiCking cloud
-stinGing cloud
-stinTing cloud
-stinking Aloud
-stinking clouT
-stinking cloudS
-stinking cloudY
-summonS fey
-summon Bey
-summon Dey
-summon Gey
-summon Hey
-summon Key
-summon Ley
-summon fLey
-summon fAy
-summon fLy
-summon fRy
-summon fWy
-summon feC
-summon feD
-summon feE
-summon feM
-summon feN
-summon feR
-summon feU
-summon feW
-summon feZ
-summonS lesser demons
-summon leAser demons
-summon lessOr demons
-summon lesseE demons
-summon lesseN demons
-summon lesseS demons
-summon lesser Lemons
-summon lesser dAemons
-summon lesser demoBs
-summonS undead
-summon unRead
-Chunder step
-thunderS step
-thunderY step
-thunder sEep
-thunder sKep
-thunder stEep
-thunder stRep
-thunder stOp
-thunder steEp
-thunder steM
-thunder steR
-thunder steT
-thunder steW
-thunder stepS
-tiCal wave
-tiCal wave
-tidal Cave
-tidal Eave
-tidal Fave
-tidal Gave
-tidal Have
-tidal Lave
-tidal Nave
-tidal Pave
-tidal Rave
-tidal Save
-tidal wEave
-tidal wIve
-tidal wOve
-tidal waIve
-tidal waDe
-tidal waGe
-tidal waKe
-tidal waLe
-tidal waMe
-tidal waNe
-tidal waRe
-tidal wavY
-tidal waveD
-tidal waveR
-tidal waveS
-Liny servant
-Piny servant
-Winy servant
-tOny servant
-tiNny servant
-tiDy servant
-tinNy servant
-tinE servant
-tinG servant
-tinS servant
-tinT servant
-tiny servantS
-tongueD
-wall Oof sand
-wall oAf sand
-wall oFf sand
-wall oOf sand
-wall ofF sand
-wall ofT sand
-wall Oof water
-wall oAf water
-wall oFf water
-wall oOf water
-wall ofF water
-wall ofT water
-Cater breathing
-Dater breathing
-Eater breathing
-Gater breathing
-Hater breathing
-Later breathing
-Mater breathing
-Rater breathing
-Tater breathing
-waIter breathing
-waSter breathing
-waDer breathing
-waFer breathing
-waGer breathing
-waVer breathing
-waterS breathing
-waterY breathing
-water Wreathing
-water breaChing
-water breathingS
-Cater walk
-Dater walk
-Eater walk
-Gater walk
-Hater walk
-Later walk
-Mater walk
-Rater walk
-Tater walk
-waIter walk
-waSter walk
-waDer walk
-waFer walk
-waGer walk
-waVer walk
-waterS walk
-waterY walk
-water Balk
-water Calk
-water Talk
-water waCk
-water waNk
-water walE
-water walL
-water walkS
-Bind wall
-Find wall
-Hind wall
-Kind wall
-Mind wall
-Rind wall
-wAnd wall
-wEnd wall
-wYnd wall
-wiLd wall
-winEd wall
-winE wall
-winG wall
-winK wall
-winO wall
-winS wall
-winY wall
-windS wall
-windY wall
-wind Ball
-wind Call
-wind Fall
-wind Gall
-wind Hall
-wind Mall
-wind Pall
-wind Rall
-wind Tall
-wind wEll
-wind wIll
-wind waIl
-wind walE
-wind walK
-wind walK
-wind wallS
-wind wallY
+animate dad
+bestow cure
+bestow curs
+binding smite
+blinding mite
+blinding site
+link
+all lightning
+cal lightning
+cal lightning
+call lighting
+conure animals
+conjure animas
+conjure animal
+conure barrage
+crate food and water
+create foo and water
+crusade's mantle
+crusader' mantle
+dispel magi
+enemies bound
+fat friends
+fast fiends
+fast friend
+ear
+far
+fer
+lame arrows
+fame arrows
+flam arrows
+flame arrow
+alder's tower
+gaseous for
+hate
+hast
+hypnotic patten
+hypnotic patter
+incite reed
+incite geed
+incite gree
+lie transference
+lighting arrow
+lighting bolt
+lightning bot
+magi circle
+major mage
+ass healing word
+mas healing word
+mas healing word
+mass haling word
+mass healing ord
+eld into stone
+med into stone
+mel into stone
+meld int stone
+meld into tone
+meld into sone
+elf's minute meteors
+phantom teed
+phantom seed
+pant growth
+plat growth
+plan growth
+protection rom energy
+protection fro energy
+pule wave
+puls wave
+pulse ave
+remove cure
+remove curs
+ending
+leet storm
+sleet stor
+low
+sow
+peak with dead
+speak wit dead
+speak with dad
+peak with plants
+speak wit plants
+speak with pants
+speak with plats
+speak with plans
+speak with plant
+sprit guardians
+spirit guardian
+sprit shroud
+sinking cloud
+stinking loud
+stinking clod
+summon lesser demos
+summon lesser demon
+tidal ave
+tin servant
+tongue
+water alk
+ind wall
+win wall
+wind all

@@ -56,9 +56,8 @@ def makeNewSpellNames(spell):
         for insertChar in range(97, 123):
             newSpell = spell[:index] + chr(insertChar-32) + spell[index:]
             returnList.append(newSpell)
-        #dropping characters
-        if(index == len(spell)):
-            returnList.append((spell[:index-1]).strip() + "\n")
+        # dropping characters
+        if((ord(char) < 124 and ord(char) > 96) or (ord(char) < 92 and ord(char) > 64)):
             returnList.append((spell[:index] + spell[index+1:]).strip() + "\n")
     return returnList
 

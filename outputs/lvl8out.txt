@@ -1,195 +1,23 @@
-animaS shapes
-animalS shapes
-animal sCapes
-animal sTapes
-animal shaDes
-animal shaKes
-animal shaMes
-animal shaRes
-animal shaVes
-animal shapeRs
-animal shapeD
-animal shapeR
-animal shapeR
-Alone
-cOlone
-cRone
-clIne
-cloSe
-cloVe
-clonK
-cloneD
-cloneS
-controlS weather
-control Aweather
-control Feather
-control Heather
-control Leather
-control weatherS
-Bark star
-Cark star
-Cark star
-Hark star
-Lark star
-Mark star
-Nark star
-Park star
-dIrk star
-dOrk star
-daNk star
-darE star
-darG star
-darN star
-darT star
-darkY star
-dark sItar
-dark sCar
-dark sEar
-dark sOar
-dark sPar
-dark stEr
-dark stIr
-dark stOr
-dark staIr
-dark staB
-dark staG
-dark staT
-dark staY
-dark starE
-dark starK
-dark starS
-dark starT
-Nominate monster
-dominateD monster
-dominateS monster
-dominate mInster
-dominate moBster
-dominate moIster
-dominate monsterS
-earthquakeS
-Coly aura
-Moly aura
-Poly aura
-hoLly aura
-hoTly aura
-holEy aura
-holLy aura
-holD aura
-holE aura
-holM aura
-holP aura
-holS aura
-holT aura
-holy Jura
-holy Sura
-holy auraL
-holy auraR
-holy auraS
-illusory dragOon
-illusory dragoOn
-illusory dragonS
-incendiary Aloud
-incendiary clouT
-incendiary cloudS
-incendiary cloudY
-Saddening darkness
-maddening daNkness
-Amaze
-Smaze
-Daze
-Faze
-Gaze
-Haze
-Laze
-Laze
-Raze
-mIze
-maIze
-maCe
-maDe
-maGe
-maKe
-maLe
-maNe
-maRe
-maTe
-mazY
-mazeR
-mazeS
-Eighty fortress
-Nighty fortress
-mightS fortress
-Bind blank
-Find blank
-Hind blank
-Kind blank
-Rind blank
-Wind blank
-mEnd blank
-miLd blank
-minEd blank
-minE blank
-minI blank
-minK blank
-minT blank
-minX blank
-mindS blank
-mind Clank
-mind Flank
-mind Plank
-mind blInk
-mind blaCk
-mind blanD
-mind blankS
-Bower word: stun
-Cower word: stun
-Dower word: stun
-Lower word: stun
-Mower word: stun
-Rower word: stun
-Sower word: stun
-Tower word: stun
-Vower word: stun
-pLower word: stun
-poKer word: stun
-poLer word: stun
-poRer word: stun
-poSer word: stun
-powDer word: stun
-powerS word: stun
-power Sword: stun
-power Cord: stun
-power Ford: stun
-power Lord: stun
-power wArd: stun
-power woAd: stun
-power woLd: stun
-power woOd: stun
-power worLd: stun
-power worE: stun
-power worK: stun
-power worM: stun
-power worN: stun
-power worT: stun
-power wordS: stun
-power wordY: stun
-power wordS stun
-power wordY stun
-power word: sHun
-power word: sPun
-power word: stuB
-power word: stuD
-power word: stunG
-power word: stunK
-power word: stunS
-power word: stunT
-reGality break
-reality Creak
-reality Freak
-reality Wreak
-reality bLeak
-reality breaD
-reality breaM
-reality breakS
-sunburstS
-tsunamiS
+anima shapes
+animal shape
+lone
+cone
+control wether
+ark star
+dak star
+dark tar
+dark str
+hoy aura
+incendiary loud
+incendiary clod
+might fortress
+ind blank
+mid blank
+min blank
+mind lank
+mind bank
+power ord: stun
+power word: tun
+power word: sun
+realty break
+reality beak
